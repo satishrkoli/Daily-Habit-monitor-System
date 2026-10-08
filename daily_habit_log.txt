@@ -1,0 +1,20 @@
+[2026-10-07 20:30:56] [ERROR] Database setup error: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+[2026-10-07 20:32:51] [DATABASE_ERROR] Failed to connect to MySQL database: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+[2026-10-07 20:32:51] [REGISTRATION_ERROR] Error registering user: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+[2026-10-07 20:35:43] [ERROR] Database setup error: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+[2026-10-07 20:37:03] [DATABASE_ERROR] Failed to connect to MySQL database: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+[2026-10-07 20:37:03] [REGISTRATION_ERROR] Error registering user: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+[2026-10-07 20:37:03] [DATABASE_ERROR] Failed to connect to MySQL database: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+[2026-10-07 20:37:03] [REGISTRATION_ERROR] Error registering user: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+[2026-10-07 20:42:07] [SYSTEM] Database and tables verified/created successfully.
+[2026-10-07 20:43:16] [REGISTRATION_SUCCESS] New user registered: satish koli
+[2026-10-07 20:43:40] [LOGIN_SUCCESS] User logged in: satish koli
+[2026-10-07 20:45:38] [HABIT_ADDED] Habit 'reading' added for user_id=1
+[2026-10-07 20:57:07] [SYSTEM] Database and tables verified/created successfully.
+[2026-10-07 20:58:15] [REGISTRATION_SUCCESS] New user registered: ganesh patil
+[2026-10-07 20:58:53] [LOGIN_SUCCESS] User logged in: ganesh patil
+[2026-10-07 20:59:15] [SYSTEM] User ganesh patil closed application.
+[2026-10-07 21:03:25] [SYSTEM] Database and tables verified/created successfully.
+[2026-10-07 21:03:57] [LOGIN_SUCCESS] User logged in: ganesh patil
+[2026-10-07 21:04:03] [SYSTEM] ganesh patil closed application
+[2026-10-08 08:55:15] [SYSTEM] Database and tables verified/created successfully.
